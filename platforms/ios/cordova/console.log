@@ -1,0 +1,219 @@
+2014-07-14 11:09:44.383 Workshop[2048:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:09:44.414 Workshop[2048:80b] Unlimited access to network resources
+2014-07-14 11:09:44.421 Workshop[2048:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:09:44.961 Workshop[2048:80b] Resetting plugins due to page load.
+2014-07-14 11:09:45.133 Workshop[2048:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-14 11:09:45.180 Workshop[2048:80b] Received Event: deviceready
+2014-07-14 11:12:16.356 Workshop[2336:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:12:16.363 Workshop[2336:80b] Unlimited access to network resources
+2014-07-14 11:12:16.366 Workshop[2336:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:12:16.518 Workshop[2336:80b] Resetting plugins due to page load.
+2014-07-14 11:12:16.678 Workshop[2336:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-14 11:14:25.574 Workshop[2511:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:14:25.586 Workshop[2511:80b] Unlimited access to network resources
+2014-07-14 11:14:25.590 Workshop[2511:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:14:25.851 Workshop[2511:80b] Resetting plugins due to page load.
+2014-07-14 11:14:26.016 Workshop[2511:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSaveGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFlatness: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextAddPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextDrawPath: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextRestoreGState: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetFillColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetStrokeColorWithColor: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextGetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextFillRects: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+Jul 14 11:14:36 Johns-MacBook-Air-2.local Workshop[2511] <Error>: CGContextSetBlendMode: invalid context 0x0. This is a serious error. This application, or a library it uses, is using an invalid context  and is thereby contributing to an overall degradation of system stability and reliability. This notice is a courtesy: please fix this problem. It will become a fatal error in an upcoming update.
+2014-07-14 11:21:41.595 Workshop[3066:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:21:41.608 Workshop[3066:80b] Unlimited access to network resources
+2014-07-14 11:21:41.616 Workshop[3066:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:21:41.812 Workshop[3066:80b] Resetting plugins due to page load.
+2014-07-14 11:21:41.930 Workshop[3066:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-14 11:25:12.104 Workshop[3997:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:25:12.117 Workshop[3997:80b] Unlimited access to network resources
+2014-07-14 11:25:12.122 Workshop[3997:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:25:12.239 Workshop[3997:80b] Resetting plugins due to page load.
+2014-07-14 11:25:12.377 Workshop[3997:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-14 11:47:03.896 Workshop[4683:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-14 11:47:03.939 Workshop[4683:80b] Unlimited access to network resources
+2014-07-14 11:47:03.945 Workshop[4683:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-14 11:47:04.282 Workshop[4683:80b] [CDVTimer][statusbar] 78.990996ms
+2014-07-14 11:47:04.283 Workshop[4683:80b] [CDVTimer][TotalPluginStartup] 79.657018ms
+2014-07-14 11:47:04.549 Workshop[4683:80b] Resetting plugins due to page load.
+2014-07-14 11:47:04.800 Workshop[4683:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-14 11:47:11.850 Workshop[4683:80b] details
+2014-07-14 11:47:17.676 Workshop[4683:80b] empty
+2014-07-14 11:47:22.572 Workshop[4683:80b] details
+2014-07-14 11:47:27.482 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:30.701 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:31.365 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:32.044 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:32.697 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:33.905 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:34.424 Workshop[4683:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-14 11:47:36.288 Workshop[4683:80b] empty
+2014-07-14 13:45:29.716 Workshop[4683:80b] details
+2014-07-14 13:45:29.752 Workshop[4683:80b] THREAD WARNING: ['Console'] took '38.245117' ms. Plugin should use a background thread.
+2014-07-14 14:06:35.165 Workshop[4683:80b] empty
+2014-07-15 11:36:46.511 Workshop[2590:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-15 11:36:46.642 Workshop[2590:80b] Unlimited access to network resources
+2014-07-15 11:36:46.653 Workshop[2590:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-15 11:36:47.038 Workshop[2590:80b] [CDVTimer][statusbar] 87.032020ms
+2014-07-15 11:36:47.038 Workshop[2590:80b] [CDVTimer][TotalPluginStartup] 87.619960ms
+2014-07-15 11:36:47.297 Workshop[2590:80b] Resetting plugins due to page load.
+2014-07-15 11:36:47.509 Workshop[2590:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-15 11:40:34.396 Workshop[3493:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-15 11:40:34.409 Workshop[3493:80b] Unlimited access to network resources
+2014-07-15 11:40:34.415 Workshop[3493:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-15 11:40:34.759 Workshop[3493:80b] [CDVTimer][statusbar] 85.931957ms
+2014-07-15 11:40:34.760 Workshop[3493:80b] [CDVTimer][TotalPluginStartup] 87.082028ms
+2014-07-15 11:40:34.955 Workshop[3493:80b] Resetting plugins due to page load.
+2014-07-15 11:40:35.219 Workshop[3493:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-15 15:53:54.456 Workshop[5421:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-15 15:53:54.540 Workshop[5421:80b] Unlimited access to network resources
+2014-07-15 15:53:54.550 Workshop[5421:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-15 15:53:55.142 Workshop[5421:80b] [CDVTimer][statusbar] 117.538989ms
+2014-07-15 15:53:55.143 Workshop[5421:80b] [CDVTimer][TotalPluginStartup] 118.421018ms
+2014-07-15 15:53:55.470 Workshop[5421:80b] Resetting plugins due to page load.
+2014-07-15 15:53:55.938 Workshop[5421:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-15 15:54:01.738 Workshop[5421:80b] j
+2014-07-15 15:54:02.657 Workshop[5421:80b] jo
+2014-07-15 15:54:03.537 Workshop[5421:80b] j
+2014-07-15 15:54:04.409 Workshop[5421:80b] j
+2014-07-15 15:54:04.641 Workshop[5421:80b] jo
+2014-07-15 15:54:05.633 Workshop[5421:80b] joh
+2014-07-15 15:54:05.736 Workshop[5421:80b] john
+2014-07-15 15:54:06.082 Workshop[5421:80b] john
+2014-07-15 15:54:06.667 Workshop[5421:80b] john
+2014-07-15 15:54:13.406 Workshop[5421:80b] john
+2014-07-15 15:54:13.640 Workshop[5421:80b] john
+2014-07-15 15:54:13.841 Workshop[5421:80b] john
+2014-07-15 15:54:13.959 Workshop[5421:80b] john
+2014-07-15 15:54:14.159 Workshop[5421:80b] john
+2014-07-15 16:03:16.931 Workshop[6789:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-15 16:03:16.975 Workshop[6789:80b] Unlimited access to network resources
+2014-07-15 16:03:16.983 Workshop[6789:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-15 16:03:17.637 Workshop[6789:80b] [CDVTimer][statusbar] 132.252038ms
+2014-07-15 16:03:17.638 Workshop[6789:80b] [CDVTimer][TotalPluginStartup] 132.961988ms
+2014-07-15 16:03:17.840 Workshop[6789:80b] Resetting plugins due to page load.
+2014-07-15 16:03:18.361 Workshop[6789:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-15 16:12:02.496 Workshop[7755:80b] Multi-tasking -> Device: YES, App: YES
+2014-07-15 16:12:02.762 Workshop[7755:80b] Unlimited access to network resources
+2014-07-15 16:12:02.769 Workshop[7755:80b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-15 16:12:03.148 Workshop[7755:80b] [CDVTimer][statusbar] 101.561010ms
+2014-07-15 16:12:03.149 Workshop[7755:80b] [CDVTimer][TotalPluginStartup] 102.117002ms
+2014-07-15 16:12:03.350 Workshop[7755:80b] Resetting plugins due to page load.
+2014-07-15 16:12:03.645 Workshop[7755:80b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/74C90F04-8E7F-458C-931A-C7CA37FE4CA3/Workshop.app/www/index.html
+2014-07-15 16:12:07.735 Workshop[7755:80b] j
+2014-07-15 16:12:07.801 Workshop[7755:80b] [{"id":0,"firstName":"James","lastName":"King","managerId":0,"managerName":"","title":"President and CEO","department":"Corporate","cellPhone":"617-000-0001","officePhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","pic":"James_King.jpg","twitterId":"@fakejking","blog":"http://coenraets.org"},{"id":1,"firstName":"Julie","lastName":"Taylor","managerId":1,"managerName":"James King","title":"VP of Marketing","department":"Marketing","cellPhone":"617-000-0002","officePhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","pic":"Julie_Taylor.jpg","twitterId":"@fakejtaylor","blog":"http://coenraets.org"},{"id":3,"firstName":"John","lastName":"Williams","managerId":1,"managerName":"James King","title":"VP of Engineering","department":"Engineering","cellPhone":"617-000-0004","officePhone":"781-000-0004","email":"jwilliams@fakemail.com","city":"Boston, MA","pic":"John_Williams.jpg","twitterId":"@fakejwilliams","blog":"http://coenraets.org"},{"id":5,"firstName":"Paul","lastName":"Jones","managerId":4,"managerName":"John Williams","title":"QA Manager","department":"Engineering","cellPhone":"617-000-0006","officePhone":"781-000-0006","email":"pjones@fakemail.com","city":"Boston, MA","pic":"Paul_Jones.jpg","twitterId":"@fakepjones","blog":"http://coenraets.org"},{"id":10,"firstName":"Amy","lastName":"Jones","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0011","officePhone":"781-000-0011","email":"ajones@fakemail.com","city":"Boston, MA","pic":"Amy_Jones.jpg","twitterId":"@fakeajones","blog":"http://coenraets.org"}]
+2014-07-15 16:12:09.145 Workshop[7755:80b] [{"id":0,"firstName":"James","lastName":"King","managerId":0,"managerName":"","title":"President and CEO","department":"Corporate","cellPhone":"617-000-0001","officePhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","pic":"James_King.jpg","twitterId":"@fakejking","blog":"http://coenraets.org"},{"id":1,"firstName":"Julie","lastName":"Taylor","managerId":1,"managerName":"James King","title":"VP of Marketing","department":"Marketing","cellPhone":"617-000-0002","officePhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","pic":"Julie_Taylor.jpg","twitterId":"@fakejtaylor","blog":"http://coenraets.org"},{"id":2,"firstName":"Eugene","lastName":"Lee","managerId":1,"managerName":"James King","title":"CFO","department":"Accounting","cellPhone":"617-000-0003","officePhone":"781-000-0003","email":"elee@fakemail.com","city":"Boston, MA","pic":"Eugene_Lee.jpg","twitterId":"@fakeelee","blog":"http://coenraets.org"},{"id":3,"firstName":"John","lastName":"Williams","managerId":1,"managerName":"James King","title":"VP of Engineering","department":"Engineering","cellPhone":"617-000-0004","officePhone":"781-000-0004","email":"jwilliams@fakemail.com","city":"Boston, MA","pic":"John_Williams.jpg","twitterId":"@fakejwilliams","blog":"http://coenraets.org"},{"id":4,"firstName":"Ray","lastName":"Moore","managerId":1,"managerName":"James King","title":"VP of Sales","department":"Sales","cellPhone":"617-000-0005","officePhone":"781-000-0005","email":"rmoore@fakemail.com","city":"Boston, MA","pic":"Ray_Moore.jpg","twitterId":"@fakermoore","blog":"http://coenraets.org"},{"id":5,"firstName":"Paul","lastName":"Jones","managerId":4,"managerName":"John Williams","title":"QA Manager","department":"Engineering","cellPhone":"617-000-0006","officePhone":"781-000-0006","email":"pjones@fakemail.com","city":"Boston, MA","pic":"Paul_Jones.jpg","twitterId":"@fakepjones","blog":"http://coenraets.org"},{"id":6,"firstName":"Paula","lastName":"Gates","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0007","officePhone":"781-000-0007","email":"pgates@fakemail.com","city":"Boston, MA","pic":"Paula_Gates.jpg","twitterId":"@fakepgates","blog":"http://coenraets.org"},{"id":7,"firstName":"Lisa","lastName":"Wong","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0008","officePhone":"781-000-0008","email":"lwong@fakemail.com","city":"Boston, MA","pic":"Lisa_Wong.jpg","twitterId":"@fakelwong","blog":"http://coenraets.org"},{"id":8,"firstName":"Gary","lastName":"Donovan","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0009","officePhone":"781-000-0009","email":"gdonovan@fakemail.com","city":"Boston, MA","pic":"Gary_Donovan.jpg","twitterId":"@fakegdonovan","blog":"http://coenraets.org"},{"id":9,"firstName":"Kathleen","lastName":"Byrne","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0010","officePhone":"781-000-0010","email":"kbyrne@fakemail.com","city":"Boston, MA","pic":"Kathleen_Byrne.jpg","twitterId":"@fakekbyrne","blog":"http://coenraets.org"},{"id":10,"firstName":"Amy","lastName":"Jones","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0011","officePhone":"781-000-0011","email":"ajones@fakemail.com","city":"Boston, MA","pic":"Amy_Jones.jpg","twitterId":"@fakeajones","blog":"http://coenraets.org"},{"id":11,"firstName":"Steven","lastName":"Wells","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0012","officePhone":"781-000-0012","email":"swells@fakemail.com","city":"Boston, MA","pic":"Steven_Wells.jpg","twitterId":"@fakeswells","blog":"http://coenraets.org"}]
+2014-07-15 16:12:09.978 Workshop[7755:80b] j
+2014-07-15 16:12:09.984 Workshop[7755:80b] [{"id":0,"firstName":"James","lastName":"King","managerId":0,"managerName":"","title":"President and CEO","department":"Corporate","cellPhone":"617-000-0001","officePhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","pic":"James_King.jpg","twitterId":"@fakejking","blog":"http://coenraets.org"},{"id":1,"firstName":"Julie","lastName":"Taylor","managerId":1,"managerName":"James King","title":"VP of Marketing","department":"Marketing","cellPhone":"617-000-0002","officePhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","pic":"Julie_Taylor.jpg","twitterId":"@fakejtaylor","blog":"http://coenraets.org"},{"id":3,"firstName":"John","lastName":"Williams","managerId":1,"managerName":"James King","title":"VP of Engineering","department":"Engineering","cellPhone":"617-000-0004","officePhone":"781-000-0004","email":"jwilliams@fakemail.com","city":"Boston, MA","pic":"John_Williams.jpg","twitterId":"@fakejwilliams","blog":"http://coenraets.org"},{"id":5,"firstName":"Paul","lastName":"Jones","managerId":4,"managerName":"John Williams","title":"QA Manager","department":"Engineering","cellPhone":"617-000-0006","officePhone":"781-000-0006","email":"pjones@fakemail.com","city":"Boston, MA","pic":"Paul_Jones.jpg","twitterId":"@fakepjones","blog":"http://coenraets.org"},{"id":10,"firstName":"Amy","lastName":"Jones","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0011","officePhone":"781-000-0011","email":"ajones@fakemail.com","city":"Boston, MA","pic":"Amy_Jones.jpg","twitterId":"@fakeajones","blog":"http://coenraets.org"}]
+2014-07-15 16:12:15.411 Workshop[7755:80b] [{"id":0,"firstName":"James","lastName":"King","managerId":0,"managerName":"","title":"President and CEO","department":"Corporate","cellPhone":"617-000-0001","officePhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","pic":"James_King.jpg","twitterId":"@fakejking","blog":"http://coenraets.org"},{"id":1,"firstName":"Julie","lastName":"Taylor","managerId":1,"managerName":"James King","title":"VP of Marketing","department":"Marketing","cellPhone":"617-000-0002","officePhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","pic":"Julie_Taylor.jpg","twitterId":"@fakejtaylor","blog":"http://coenraets.org"},{"id":2,"firstName":"Eugene","lastName":"Lee","managerId":1,"managerName":"James King","title":"CFO","department":"Accounting","cellPhone":"617-000-0003","officePhone":"781-000-0003","email":"elee@fakemail.com","city":"Boston, MA","pic":"Eugene_Lee.jpg","twitterId":"@fakeelee","blog":"http://coenraets.org"},{"id":3,"firstName":"John","lastName":"Williams","managerId":1,"managerName":"James King","title":"VP of Engineering","department":"Engineering","cellPhone":"617-000-0004","officePhone":"781-000-0004","email":"jwilliams@fakemail.com","city":"Boston, MA","pic":"John_Williams.jpg","twitterId":"@fakejwilliams","blog":"http://coenraets.org"},{"id":4,"firstName":"Ray","lastName":"Moore","managerId":1,"managerName":"James King","title":"VP of Sales","department":"Sales","cellPhone":"617-000-0005","officePhone":"781-000-0005","email":"rmoore@fakemail.com","city":"Boston, MA","pic":"Ray_Moore.jpg","twitterId":"@fakermoore","blog":"http://coenraets.org"},{"id":5,"firstName":"Paul","lastName":"Jones","managerId":4,"managerName":"John Williams","title":"QA Manager","department":"Engineering","cellPhone":"617-000-0006","officePhone":"781-000-0006","email":"pjones@fakemail.com","city":"Boston, MA","pic":"Paul_Jones.jpg","twitterId":"@fakepjones","blog":"http://coenraets.org"},{"id":6,"firstName":"Paula","lastName":"Gates","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0007","officePhone":"781-000-0007","email":"pgates@fakemail.com","city":"Boston, MA","pic":"Paula_Gates.jpg","twitterId":"@fakepgates","blog":"http://coenraets.org"},{"id":7,"firstName":"Lisa","lastName":"Wong","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0008","officePhone":"781-000-0008","email":"lwong@fakemail.com","city":"Boston, MA","pic":"Lisa_Wong.jpg","twitterId":"@fakelwong","blog":"http://coenraets.org"},{"id":8,"firstName":"Gary","lastName":"Donovan","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0009","officePhone":"781-000-0009","email":"gdonovan@fakemail.com","city":"Boston, MA","pic":"Gary_Donovan.jpg","twitterId":"@fakegdonovan","blog":"http://coenraets.org"},{"id":9,"firstName":"Kathleen","lastName":"Byrne","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0010","officePhone":"781-000-0010","email":"kbyrne@fakemail.com","city":"Boston, MA","pic":"Kathleen_Byrne.jpg","twitterId":"@fakekbyrne","blog":"http://coenraets.org"},{"id":10,"firstName":"Amy","lastName":"Jones","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0011","officePhone":"781-000-0011","email":"ajones@fakemail.com","city":"Boston, MA","pic":"Amy_Jones.jpg","twitterId":"@fakeajones","blog":"http://coenraets.org"},{"id":11,"firstName":"Steven","lastName":"Wells","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0012","officePhone":"781-000-0012","email":"swells@fakemail.com","city":"Boston, MA","pic":"Steven_Wells.jpg","twitterId":"@fakeswells","blog":"http://coenraets.org"}]
+2014-07-15 16:12:15.842 Workshop[7755:80b] [{"id":0,"firstName":"James","lastName":"King","managerId":0,"managerName":"","title":"President and CEO","department":"Corporate","cellPhone":"617-000-0001","officePhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","pic":"James_King.jpg","twitterId":"@fakejking","blog":"http://coenraets.org"},{"id":1,"firstName":"Julie","lastName":"Taylor","managerId":1,"managerName":"James King","title":"VP of Marketing","department":"Marketing","cellPhone":"617-000-0002","officePhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","pic":"Julie_Taylor.jpg","twitterId":"@fakejtaylor","blog":"http://coenraets.org"},{"id":2,"firstName":"Eugene","lastName":"Lee","managerId":1,"managerName":"James King","title":"CFO","department":"Accounting","cellPhone":"617-000-0003","officePhone":"781-000-0003","email":"elee@fakemail.com","city":"Boston, MA","pic":"Eugene_Lee.jpg","twitterId":"@fakeelee","blog":"http://coenraets.org"},{"id":3,"firstName":"John","lastName":"Williams","managerId":1,"managerName":"James King","title":"VP of Engineering","department":"Engineering","cellPhone":"617-000-0004","officePhone":"781-000-0004","email":"jwilliams@fakemail.com","city":"Boston, MA","pic":"John_Williams.jpg","twitterId":"@fakejwilliams","blog":"http://coenraets.org"},{"id":4,"firstName":"Ray","lastName":"Moore","managerId":1,"managerName":"James King","title":"VP of Sales","department":"Sales","cellPhone":"617-000-0005","officePhone":"781-000-0005","email":"rmoore@fakemail.com","city":"Boston, MA","pic":"Ray_Moore.jpg","twitterId":"@fakermoore","blog":"http://coenraets.org"},{"id":5,"firstName":"Paul","lastName":"Jones","managerId":4,"managerName":"John Williams","title":"QA Manager","department":"Engineering","cellPhone":"617-000-0006","officePhone":"781-000-0006","email":"pjones@fakemail.com","city":"Boston, MA","pic":"Paul_Jones.jpg","twitterId":"@fakepjones","blog":"http://coenraets.org"},{"id":6,"firstName":"Paula","lastName":"Gates","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0007","officePhone":"781-000-0007","email":"pgates@fakemail.com","city":"Boston, MA","pic":"Paula_Gates.jpg","twitterId":"@fakepgates","blog":"http://coenraets.org"},{"id":7,"firstName":"Lisa","lastName":"Wong","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0008","officePhone":"781-000-0008","email":"lwong@fakemail.com","city":"Boston, MA","pic":"Lisa_Wong.jpg","twitterId":"@fakelwong","blog":"http://coenraets.org"},{"id":8,"firstName":"Gary","lastName":"Donovan","managerId":2,"managerName":"Julie Taylor","title":"Marketing Manager","department":"Marketing","cellPhone":"617-000-0009","officePhone":"781-000-0009","email":"gdonovan@fakemail.com","city":"Boston, MA","pic":"Gary_Donovan.jpg","twitterId":"@fakegdonovan","blog":"http://coenraets.org"},{"id":9,"firstName":"Kathleen","lastName":"Byrne","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0010","officePhone":"781-000-0010","email":"kbyrne@fakemail.com","city":"Boston, MA","pic":"Kathleen_Byrne.jpg","twitterId":"@fakekbyrne","blog":"http://coenraets.org"},{"id":10,"firstName":"Amy","lastName":"Jones","managerId":5,"managerName":"Ray Moore","title":"Sales Representative","department":"Sales","cellPhone":"617-000-0011","officePhone":"781-000-0011","email":"ajones@fakemail.com","city":"Boston, MA","pic":"Amy_Jones.jpg","twitterId":"@fakeajones","blog":"http://coenraets.org"},{"id":11,"firstName":"Steven","lastName":"Wells","managerId":4,"managerName":"John Williams","title":"Software Architect","department":"Engineering","cellPhone":"617-000-0012","officePhone":"781-000-0012","email":"swells@fakemail.com","city":"Boston, MA","pic":"Steven_Wells.jpg","twitterId":"@fakeswells","blog":"http://coenraets.org"}]
+2014-07-15 16:12:27.065 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:12:27.685 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:12:28.779 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:12:29.211 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:12:31.126 Workshop[7755:80b] reusing home view
+2014-07-15 16:18:25.214 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:25.735 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:26.553 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:27.483 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:27.892 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:28.565 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:28.925 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:18:40.387 Workshop[7755:80b] reusing home view
+2014-07-15 16:19:01.607 Workshop[7755:80b] reusing home view
+2014-07-15 16:19:13.568 Workshop[7755:80b] reusing home view
+2014-07-15 16:19:21.319 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:19:21.526 Workshop[7755:80b] Failed to load webpage with error: The URL can’t be shown
+2014-07-15 16:19:22.753 Workshop[7755:80b] reusing home view
